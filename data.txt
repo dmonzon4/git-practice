@@ -1,0 +1,3 @@
+Name: Diego
+Age: 32
+Favorite Color: Darkblue
